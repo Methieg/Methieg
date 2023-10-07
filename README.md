@@ -1,12 +1,20 @@
-### Hi there 👋
+### Hi there,the name is Methembe Gumbo and I am happy to have you here 👋
 
 
 **Methieg/Methieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 🔭 I’m currently a fullstack software engineering trainee with the ALX_Africa(Mastercard Foundation Scholarship Programme).
-- 🌱 I’m currently learning some CSS,HTML5 and Vanilla JS with a favourable impression with the backend side of programming.
+- 🔭 Software engineering(ALX_Africa Mastercard Foundation Scholar)
+<p> 🌱 <em>I’m currently learning : </em>
+<ul>
+  <li>C</li>
+  <li>Python/Flask</li>
+  <li>CSS</li>
+ <li>HTML5</li>
+<li>Vanilla JS</li>
+  
+</p>
 - 👯 I’m looking to collaborate on opportunities to work on projects with Flask and any extensible python technologies I can learn from.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about C,Python,Bash and a little about science-Biochemistry
