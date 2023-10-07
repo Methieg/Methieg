@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Methieg/Methieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -13,4 +13,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...I am a biochemist and very welcoming of any topic
 [![An image of @methieg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/methieg)](https://holopin.io/@methieg)
--->
+  
