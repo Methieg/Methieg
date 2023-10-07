@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Software engineering(ALX_Africa Mastercard Foundation Scholar)
+- 🔭 **Software engineering** (`ALX_Africa Mastercard Foundation Scholar`)
 <p> 🌱 <em>I’m currently learning : </em>
 <ul>
   <li>C</li>
