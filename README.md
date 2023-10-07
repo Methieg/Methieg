@@ -1,7 +1,7 @@
-### Hi there,the name is Methembe Gumbo and I am happy to have you here 👋
+### Hi there,the name is `Methembe Gumbo` and I am happy to have you here 👋
 
 
-**Methieg/Methieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
