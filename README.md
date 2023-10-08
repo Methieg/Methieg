@@ -23,5 +23,4 @@
 - ⚡ Fun fact: ...I am a biochemist and very welcoming of any topic
 
 [![An image of @methieg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/methieg)](https://holopin.io/@methieg)
-  [![An image of @methieg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/methieg)](https://holopin.io/@methieg)
 Footer
